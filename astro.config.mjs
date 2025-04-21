@@ -21,4 +21,6 @@ export default defineConfig({
       include: ["framer-motion"],
     },
   },
+
+  site: "https://www.mh-solutions.kz",
 });
