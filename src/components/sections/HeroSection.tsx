@@ -17,7 +17,7 @@ export default function HeroSection() {
             transition={{ delay: 0.2 }}
             className="text-4xl font-bold text-gray-900 sm:text-5xl md:text-6xl bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text"
           >
-            Revolutionize Hotel Email Management
+            Revolutionize Hotel Reservations Management
           </motion.h1>
           <motion.p
             initial={{ opacity: 0 }}
